@@ -1,4 +1,4 @@
-# mongodb installation
+# mongodb installation for ubuntu lts 20.4
 
 >kishan@kishan25:~$ sudo apt install mongodb
 
