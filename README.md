@@ -12,6 +12,8 @@
 
 >start service - kishan@kishan25:~$ sudo service mongod start
 
+or- >kishan@kishan25:~$ sudo systemctl status mongodb
+
 >stop service - kishan@kishan25:~$ sudo service mongodb stop
 
 >check status - kishan@kishan25:~$ sudo service mongodb status
