@@ -33,3 +33,7 @@ or- >kishan@kishan25:~$ sudo systemctl status mongodb
 3>copy connecting to: mongodb://127.0.0.1:27017
 
 4>and paste in mongodb compass
+
+mongod is the "Mongo Daemon" it's basically the host process for the database. When you start mongod you're basically saying "start the MongoDB process and run it in the background". mongod has several default parameters, such as storing data in /data/db and running on port 27017.
+
+mongo is the command-line shell that connects to a specific instance of mongod. When you run mongo with no parameters it defaults to connecting to the localhost on port 27017. If you run mongo against an invalid machine:port combination then it will fail to connect (and tell you as much).
