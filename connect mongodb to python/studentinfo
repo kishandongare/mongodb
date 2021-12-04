@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "61ab64ce90f91f5f74ffc47a"
+  },
+  "firstname": "kishan",
+  "lastname": "dongare",
+  "age": 21,
+  "department": "IT"
+},{
+  "_id": {
+    "$oid": "61ab66ff90f91f5f74ffc47c"
+  },
+  "firstname": "kishan",
+  "lastname": "dongare",
+  "age": 21,
+  "department": "IT"
+},{
+  "_id": {
+    "$oid": "61ab66ff90f91f5f74ffc47d"
+  },
+  "firstname": "aarush",
+  "lastname": "dongare",
+  "age": 22,
+  "department": "CS"
+},{
+  "_id": {
+    "$oid": "61ab66ff90f91f5f74ffc47e"
+  },
+  "firstname": "sahil",
+  "lastname": "dongare",
+  "age": 23,
+  "department": "CS"
+}]
