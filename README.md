@@ -10,7 +10,7 @@
 
 >kishan@kishan25:~$ mongo
 
->start service - kishan@kishan25:~$ sudo service mongod start
+>start service - kishan@kishan25:~$ sudo service mongodb start
 
 or- >kishan@kishan25:~$ sudo systemctl status mongodb
 
