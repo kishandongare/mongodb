@@ -1,3 +1,7 @@
+# mongodb documentation
+
+>https://docs.mongodb.com/
+
 # mongodb installation for ubuntu lts 20.4
 
 # mongodb
