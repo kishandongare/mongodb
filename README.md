@@ -1,10 +1,10 @@
-# mongodb documentation
+# Mongodb documentation
 
 >https://docs.mongodb.com/
 
 # mongodb installation for ubuntu lts 20.4
 
-# mongodb
+# Mongodb
 
 >kishan@kishan25:~$ sudo apt install mongodb
 
@@ -22,14 +22,14 @@ or- >kishan@kishan25:~$ sudo systemctl status mongodb
 
 >check status - kishan@kishan25:~$ sudo service mongodb status
 
-# mongodb compass
+# Mongodb Compass
 >download first link-https://www.mongodb.com/try/download/compass
 
 >mongodb-compass_1.29.5_amd64.deb
 
 >kishan@kishan25:~/Downloads$ sudo dpkg -i mongodb-compass_1.29.5_amd64.deb   
 
-# connect mongodb to mongodb compass
+# Connect mongodb to mongodb compass
 1> sudo service mongodb start
 
 2>kishan@kishan25:~$ mongo
